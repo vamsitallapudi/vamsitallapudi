@@ -25,7 +25,7 @@ Apart from coding stuff, I love to interact with people with their queries regar
 
 Reach me on Linkedin at: https://www.linkedin.com/in/vamsi-tallapudi/
 
-Reach me on Instagram at: instagram.com/vamsitallapudi
+Reach me on Instagram at: https://www.instagram.com/vamsitallapudi
 
 <a href="https://github.com/vamsitallapudi?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsitallapudi&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Vamsi Tallapudi's github stats"/>

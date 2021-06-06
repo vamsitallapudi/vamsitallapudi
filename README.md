@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=vamsitallapudi) <!-- Profile View Counter-->
 ### Hi there 👋
 
 <!--

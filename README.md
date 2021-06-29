@@ -22,8 +22,6 @@ I'm a Blogger, Tech Enthusiast and Author at [Coderefer.com](https://www.coderef
 
 I'm an interactive person and a good listener and also a Fitness freak who loves cars and Travelling.
 
-Apart from coding stuff, I love to interact with people with their queries regarding their career, latest trends, architecture and best practices.
-
 Reach me on Linkedin at: https://www.linkedin.com/in/vamsi-tallapudi/
 
 Reach me on Instagram at: https://www.instagram.com/vamsitallapudi

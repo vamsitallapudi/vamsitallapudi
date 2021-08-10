@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Vamsi Tallapudi, a Full-Stack Developer who loves developing Web and Mobile apps, currently working as Technical Lead in HCL Technologies.
+I am Vamsi Tallapudi, a Full-Stack Developer who loves developing Web and Mobile apps, currently working as Senior Application Consultant in DBS Bank.
 
 Ever since my first Android app has reached thousands of users, I am in love with Android Development and made it my career.
 

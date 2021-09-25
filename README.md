@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am Vamsi Tallapudi, a Full-Stack Developer who loves developing Web and Mobile apps, currently working as Senior Application Consultant in DBS Bank.
 
-Ever since my first Android app has reached thousands of users, I am in love with Full stack Development and made it my career.
+Ever since my first app has reached thousands of users, I am in love with Full stack Development and made it my career.
 
 I'm a Blogger, Tech Enthusiast and Author at [Coderefer.com](https://www.coderefer.com/blog). I completed my graduation from ANU.
 

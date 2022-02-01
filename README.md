@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Vamsi Tallapudi, a Full-Stack Developer who loves developing Web and Mobile apps, currently working as Senior Application Consultant in DBS Bank.
+I am Vamsi Tallapudi, a Full-Stack Developer who loves developing Web and Mobile apps, currently working as Architect in Cognizant Technology Solutions.
 
 Ever since my first app has reached thousands of users, I am in love with Full stack Development and made it my career.
 
